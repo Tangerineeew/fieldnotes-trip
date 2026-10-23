@@ -9,11 +9,11 @@ It is the companion to [Fieldnotes](https://github.com/Tangerineeew/fieldnotes):
 
 ## Screenshots
 
-![A live reference opened in a trip's Trip Fieldnotes tab](./docs/screenshot.png)
+![A live reference opened in a trip's Trip Fieldnotes tab, with its comments open beside it](./docs/screenshot.png)
 
 ## What it does
 
-Trip Fieldnotes covers the trip side: everyone on the trip reads the notes shared with it here, people who can edit the trip arrange them, and the useful parts go into the day plan.
+Trip Fieldnotes covers the trip side: everyone on the trip reads and discusses the notes shared with it here, and people who can edit the trip arrange them and keep the trip's own copies up to date.
 
 ### Notes in the trip
 
@@ -41,21 +41,31 @@ Trip Fieldnotes covers the trip side: everyone on the trip reads the notes share
 
 <table>
 <tr>
-<td width="33%" valign="top"><p><b>🗂️ Trip folders</b><br>Create folders such as "Arrival" or "Day 1" for this trip, with sub-folders if you like. Drag notes into them or pick a folder in the note's sidebar. These folders belong to the trip and do not affect anyone's own library; a folder can only be deleted once it is empty.</p></td>
+<td width="33%" valign="top"><p><b>🗂️ Trip folders</b><br>Create folders such as "Arrival" or "Day 1" for this trip, with sub-folders if you like. Drag notes into them from the folder view. These folders belong to the trip and do not affect anyone's own library; a folder can only be deleted once it is empty.</p></td>
 <td width="33%" valign="top"><p><b>✏️ New note for this trip</b><br>"New note for this trip" opens the Fieldnotes editor. When you save, the note is kept in your library and added to the trip; if you had a trip folder open, the note goes into that folder too.</p></td>
 <td width="33%" valign="top"><p><b>🗑️ Removing a note</b><br>Removing a live reference leaves the original note in the library untouched. Removing a snapshot deletes that snapshot, so make sure it is no longer needed.</p></td>
 </tr>
 </table>
 
-### Copying into the day plan
+### Editing snapshots
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./docs/excerpt.png" alt="Copy an excerpt to the day plan: pick a day, edit the excerpt, and see the 127 of 500 character count" width="100%"></td>
-<td width="50%" valign="top">
-<p><b>Excerpts</b><br>While reading a note, you can copy part of it into a day of the trip. The excerpt box starts with the note's title and text (only the title if together they exceed 500 characters), and you can trim it to what you need, up to 500 characters.</p>
-<p><b>An ordinary day note</b><br>The excerpt appears in that day's plan as an ordinary day note, just like one you would add in TREK yourself.</p>
-<p><b>Independent of the original</b><br>The excerpt is its own copy: later edits to the original note or to the day note do not affect the other.</p>
+<td width="50%" valign="top"><p><b>✏️ Edit in the trip</b><br>People who can edit the trip can edit a snapshot right here: its icon, title, properties, text and images. The changes apply only to this trip's copy; the original in the author's library stays as it is.</p></td>
+<td width="50%" valign="top"><p><b>📌 Turn a live reference into a snapshot</b><br>A live reference can be turned into a snapshot from the note's toolbar, after which it no longer follows the author's edits. This follows the same rule as adding a snapshot: you need to be able to read the note in Fieldnotes yourself, so a private note shared live still disappears from the trip when its author leaves.</p></td>
+</tr>
+</table>
+
+### Comments
+
+<table>
+<tr>
+<td width="40%" valign="top"><img src="./docs/comments.png" alt="The comments panel: open and resolved tabs, a thread quoting a passage with a reply, and a second thread on a fare" width="100%"></td>
+<td width="60%" valign="top">
+<p><b>On a passage or the whole note</b><br>Select text in a note and choose "Comment" to discuss that passage; the passage stays highlighted in the note, and clicking it opens its thread. You can also comment on the note as a whole.</p>
+<p><b>Threads</b><br>Each comment can collect replies and be marked as resolved, which moves it to the Resolved list where it can be reopened.</p>
+<p><b>Next to the note</b><br>Comments open in a panel beside the note, so the note keeps the full page while you read. The toolbar shows how many threads are still open.</p>
+<p><b>Part of this trip</b><br>Comments belong to the note in this trip. Turning a live reference into a snapshot keeps them; removing the note from the trip deletes them.</p>
 </td>
 </tr>
 </table>
@@ -64,9 +74,8 @@ Trip Fieldnotes covers the trip side: everyone on the trip reads the notes share
 
 <table>
 <tr>
-<td width="33%" valign="top"><p><b>👀 Everyone on the trip</b><br>Can read the notes here, and search and sort them.</p></td>
-<td width="33%" valign="top"><p><b>🧭 People who can edit the trip</b><br>Can add or remove notes and create and arrange trip folders, following TREK's own trip editing permission.</p></td>
-<td width="33%" valign="top"><p><b>📅 People who can edit days</b><br>Can copy excerpts into the day plan, following TREK's own day editing permission.</p></td>
+<td width="50%" valign="top"><p><b>👀 Everyone on the trip</b><br>Can read the notes here, search and sort them, and comment, reply and resolve threads. Everyone can edit or delete their own comments.</p></td>
+<td width="50%" valign="top"><p><b>🧭 People who can edit the trip</b><br>Can add or remove notes, arrange trip folders, edit snapshots, turn live references into snapshots and remove anyone's comments, following TREK's own trip editing permission.</p></td>
 </tr>
 </table>
 
@@ -75,7 +84,7 @@ Trip Fieldnotes covers the trip side: everyone on the trip reads the notes share
 <table>
 <tr>
 <td width="50%" valign="top"><p><b>🌍 Languages</b><br>Follows TREK's language setting, in the same fourteen languages as Fieldnotes, with a right-to-left layout for Arabic.</p></td>
-<td width="50%" valign="top"><p><b>🗄️ No data of its own</b><br>Notes, trip links and snapshots are stored by Fieldnotes, so uninstalling Trip Fieldnotes only removes the tab.</p></td>
+<td width="50%" valign="top"><p><b>🗄️ No data of its own</b><br>Notes, trip links, snapshots and comments are stored by Fieldnotes, so uninstalling Trip Fieldnotes only removes the tab.</p></td>
 </tr>
 </table>
 
@@ -92,7 +101,7 @@ Trip Fieldnotes asks for no permissions of its own. It shows and changes notes o
 ## Good to know
 
 - **Who can see the tab?** Everyone on the trip. Notes only appear once someone has shared them with the trip.
-- **What if I uninstall Trip Fieldnotes?** Only the tab goes away. The notes, the trip links and the snapshots belong to Fieldnotes and stay safe there.
+- **What if I uninstall Trip Fieldnotes?** Only the tab goes away. The notes, trip links, snapshots and comments belong to Fieldnotes and stay safe there.
 
 ## For developers
 
