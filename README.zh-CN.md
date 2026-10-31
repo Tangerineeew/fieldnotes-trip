@@ -10,7 +10,7 @@ Trip Fieldnotes 会在自托管旅行规划工具 [TREK](https://github.com/maur
 
 ## 截图
 
-![Trip Fieldnotes：分栏浏览这次旅行的笔记并预览一份快照，旁边是其中一篇笔记的评论](./docs/screenshot.zh-CN.png)
+![Trip Fieldnotes：浅色主题下打开评论的一篇旅行笔记，后面立着深色主题下的同一画面](./docs/screenshot.zh-CN.png)
 
 ## 功能
 
@@ -21,7 +21,7 @@ Trip Fieldnotes 会在自托管旅行规划工具 [TREK](https://github.com/maur
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><b>集中阅读</b><br>分享给这次旅行的笔记，都在旅行的 Trip Fieldnotes 标签页里，和 Fieldnotes 图书馆一样分栏浏览：单击预览，再点一次打开。打开一篇笔记，属性、清单、表格和图片的显示方式与在 Fieldnotes 中完全相同。</p>
+<p><b>集中阅读</b><br>分享给这次旅行的笔记，都在旅行的 Trip Fieldnotes 标签页里，和 Fieldnotes 图书馆一样分栏浏览，同一窗口下大小也相同：单击预览，再点一次打开。打开一篇笔记，属性、清单、表格和图片的显示方式与在 Fieldnotes 中完全相同。</p>
 <p><b>来源与日期</b><br>预览里会标明每篇笔记是实时引用还是快照；带入时选择了日期的笔记，还会标注它属于哪一天。</p>
 <p><b>搜索与排序</b><br>和 Fieldnotes 图书馆一样，可以在这次旅行的全部笔记中搜索标题、正文和属性值，最匹配的排在最前并显示命中的那一段，也可以按名称、创建时间或最近修改时间排序。</p>
 </td>

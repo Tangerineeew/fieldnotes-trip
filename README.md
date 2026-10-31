@@ -10,7 +10,7 @@ Works with TREK 4.1 or later, together with [Fieldnotes](https://github.com/Tang
 
 ## Screenshots
 
-![Trip Fieldnotes: a trip's notes in columns with a snapshot previewed, beside the comments on one of them](./docs/screenshot.png)
+![Trip Fieldnotes: a note on a trip with its comments open, in the light theme, with the same view in the dark theme standing behind it](./docs/screenshot.png)
 
 ## What it does
 
@@ -21,7 +21,7 @@ Notes are written in Fieldnotes, your private travel notebook, and brought into 
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><b>All in one tab</b><br>Every note shared with the trip is in the trip's Trip Fieldnotes tab, browsed in columns just like the Fieldnotes library: click a note to preview it, click again to open it. Open one and its properties, checklists, tables and images look exactly as they do in Fieldnotes.</p>
+<p><b>All in one tab</b><br>Every note shared with the trip is in the trip's Trip Fieldnotes tab, browsed in columns just like the Fieldnotes library, and as large in the same window: click a note to preview it, click again to open it. Open one and its properties, checklists, tables and images look exactly as they do in Fieldnotes.</p>
 <p><b>Source and day</b><br>The preview marks each note as a live reference or a snapshot, and shows the day a note was added for.</p>
 <p><b>Search and sorting</b><br>As in the Fieldnotes library, you can search titles, text and property values across the trip's notes, best matches first with the passage that matched, and sort by name, creation date or last change.</p>
 </td>
