@@ -42,9 +42,9 @@ Notes are written in Fieldnotes, your private travel notebook, and brought into 
 
 <table>
 <tr>
-<td width="33%" valign="top"><p><b>🗂️ Trip folders</b><br>Create folders such as "Arrival" or "Day 1" for this trip, with sub-folders if you like. Drag notes into them, or right-click a note or folder for what you can do with it. These folders belong to the trip and do not affect anyone's own library; a folder can only be deleted once it is empty.</p></td>
-<td width="33%" valign="top"><p><b>✏️ New note for this trip</b><br>"New note for this trip" opens the Fieldnotes editor. When you save, the note is kept in your library and added to the trip; if you had a trip folder open, the note goes into that folder too.</p></td>
-<td width="33%" valign="top"><p><b>🗑️ Removing a note</b><br>Removing a note puts it in the trip's own Recently deleted, at the foot of the note list, with its comments and folder. It waits there for 30 days, ready to be recovered by anyone who can edit the trip, or deleted permanently. The original of a live reference stays in the library either way.</p></td>
+<td width="33%" valign="top"><p><b>🗂️ Trip folders</b><br>Create folders such as "Arrival" or "Day 1" for this trip, with sub-folders if you like. Drag notes into them or choose Move to… from a note's menu, and right-click a note or folder for what else you can do with it. These folders belong to the trip and do not affect anyone's own library; a folder can only be deleted once it is empty.</p></td>
+<td width="33%" valign="top"><p><b>✏️ New note for this trip</b><br>"New Note for This Trip" opens the Fieldnotes editor. When you save, the note is kept in your library and added to the trip; if you had a trip folder open, the note goes into that folder too.</p></td>
+<td width="33%" valign="top"><p><b>🗑️ Removing a note</b><br>Removing a note asks nothing, and its notice offers Undo. It goes to the trip's own Recently Deleted, at the foot of the note list, with its comments and folder. It waits there for 30 days, ready to be recovered by anyone who can edit the trip, or deleted permanently. The original of a live reference stays in the library either way.</p></td>
 </tr>
 </table>
 
@@ -96,7 +96,7 @@ Notes are written in Fieldnotes, your private travel notebook, and brought into 
 
 <table>
 <tr>
-<td width="50%" valign="top"><p><b>🌍 Languages</b><br>Follows TREK's language setting, in the same 27 languages as Fieldnotes, with a right-to-left layout for Arabic.</p></td>
+<td width="50%" valign="top"><p><b>🌍 Languages</b><br>Follows TREK's language setting, in the same 28 languages as Fieldnotes, with a right-to-left layout for Arabic and Hebrew.</p></td>
 <td width="50%" valign="top"><p><b>🗄️ No data of its own</b><br>Notes, trip links, snapshots and comments are stored by Fieldnotes, so uninstalling Trip Fieldnotes only removes the tab.</p></td>
 </tr>
 </table>
