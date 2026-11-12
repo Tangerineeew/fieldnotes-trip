@@ -10,7 +10,7 @@ Trip Fieldnotes 会在自托管旅行规划工具 [TREK](https://github.com/maur
 
 ## 截图
 
-![Trip Fieldnotes：浅色主题下打开评论的一篇旅行笔记，后面立着深色主题下的同一画面](./docs/screenshot.zh-CN.png)
+![Trip Fieldnotes：MacBook 上的 Safari 里，浅色主题下打开评论的一篇旅行笔记；前面的 iPhone 上是深色主题下的同一篇笔记和它的评论面板](./docs/screenshot.zh-CN.png)
 
 ## 功能
 

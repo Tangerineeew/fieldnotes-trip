@@ -10,7 +10,7 @@ Works with TREK 4.1 or later, together with [Fieldnotes](https://github.com/Tang
 
 ## Screenshots
 
-![Trip Fieldnotes: a note on a trip with its comments open, in the light theme, with the same view in the dark theme standing behind it](./docs/screenshot.png)
+![Trip Fieldnotes: a note on a trip with its comments open, in the light theme in Safari on a MacBook, with the same note and its comment sheet in the dark theme on an iPhone in front](./docs/screenshot.png)
 
 ## What it does
 
